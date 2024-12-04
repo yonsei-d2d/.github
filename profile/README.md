@@ -26,7 +26,8 @@
 |건물 및 시설 검색|건물 및 강의실 경로 안내|AI 챗봇 지도 연동|
 
 ## 📚 Tech Stack
-### Back-end
+
+<div align="center"><h3>Back-end</h3></div>
 <div align="center">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -37,7 +38,7 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
-### Front-end
+<div align="center"><h3>Front-end</h3></div>
 <div align="center">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
@@ -45,7 +46,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-### ML
+<div align="center"><h3>ML</h3></div>
 <div align="center">
 <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/springai-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
